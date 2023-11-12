@@ -1,0 +1,26 @@
+img{
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin-left: 15px;
+}
+
+.comment {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.biru{
+  background-color: rgb(70, 123, 198);
+}
+
+.card-body {
+      text-align: right;
+      border-radius: 50px;
+      margin-right: 50px; 
+    }
+
+  
+
+
